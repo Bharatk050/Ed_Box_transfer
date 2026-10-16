@@ -31,7 +31,6 @@ The following non-secret settings were read from the local `.env` on 2026-10-17:
 | Setting | Configured value |
 | --- | --- |
 | Provider/client | Azure OpenAI / `AzureOpenAI` |
-| `AZURE_OPENAI_ENDPOINT` | `https://hackathonopenai01.openai.azure.com/` |
 | `AZURE_OPENAI_DEPLOYMENT` | `gpt-4` |
 | `AZURE_OPENAI_API_VERSION` | `2024-10-21` |
 | API key | Stored only in `.env`; intentionally omitted here |

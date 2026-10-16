@@ -2,7 +2,7 @@
 
 ## 0.8.7 — 2026-10-17
 
-- Document the configured Azure deployment, endpoint, API version, request settings,
+- Document the configured Azure deployment, API version, request settings,
   image/text budgets, and names-only Credits policy in README without the API key.
 - Normalize the CSV to three columns, clean whitespace and repeated Quality rows,
   and preserve all 16 field definitions, choices, and ordering.
