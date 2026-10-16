@@ -1,0 +1,41 @@
+[
+  {
+    "Footage Type": "Teaching Sample",
+    "Product": [
+      {
+        "Primary": "Core Math",
+        "Secondary": "i-Ready Classroom Mathematics"
+      }
+    ],
+    "Content Owner": null,
+    "Content Tags": [
+      "Full Lesson",
+      "Classroom",
+      "Whole Class Instruction",
+      "Pair Work",
+      "Print Materials",
+      "Digital Devices",
+      "Slides"
+    ],
+    "People": [
+      "Teacher",
+      "Student"
+    ],
+    "Role": [
+      "Teacher",
+      "Student"
+    ],
+    "Credits": "\"Lamont Williams\"",
+    "Creation Date": null,
+    "Last Modified": null,
+    "Grade": [
+      "8"
+    ],
+    "State": null,
+    "Region/School": "Barcelona ES",
+    "Length": "00:54:22",
+    "Creator/Vendor": null,
+    "Quality": null,
+    "Restrictions": "No"
+  }
+]

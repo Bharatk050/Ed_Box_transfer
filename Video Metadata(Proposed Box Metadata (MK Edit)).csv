@@ -1,0 +1,114 @@
+Field,Data Type,Possible Values
+Footage Type,Choose 1 from list,Classroom Footage
+,,Teaching Sample
+,,Interview
+,,B-Roll
+,,Green Screen
+,,Product
+,,Screencast
+,,Audio Only
+,,
+Product,Choose as many as you like from list,BRIGANCE
+,,Ready Math
+,,Ready Reading
+,,i-Ready
+,,i-Ready Classroom Mathematics
+,,Classroom Mathematics California
+,,Magnetic Reading Foundations
+,,Mosaico Fundamentos
+,,Magnetic Literacy
+,,Mosaico Lectoescritura
+,,Literacy Tasks
+,,Phonics for Reading
+,,Stile
+,,CA
+,,
+Content Owner,Text entry,name
+,,
+Content Tags,Choose as many as you like from list,Full Lesson
+,,Classroom
+,,English Learners
+,,Special Ed
+,,Product Demo
+,,Inform
+,,Personalized Instruction
+,,Whole Class Instruction
+,,Small Group
+,,Pair Work
+,,Student Presentation
+,,Learning Games
+,,Assessment
+,,1:1 Support
+,,Planning
+,,Professional Development
+,,Print Materials
+,,Digital Devices
+,,Slides
+,,Dashboard/UI
+,,Reports
+,,Teacher Toolbox
+,,Print Book(s)
+,,Assessment Items—Restrictions Apply
+,,Interactive Practice
+,,
+People,Choose as many as you like from list,Teacher
+,,Admin
+,,Coach
+,,CA Employee
+,,Student
+,,Parent/Family
+,,
+Role,Choose as many as you like from list,Teacher
+,,Admin
+,,Coach
+,,CA Employee
+,,Student
+,,Parent/Family
+,,
+Credits,text entry,Contributor names only
+,,
+Creation Date,Date,date
+,,
+Last Modified,Date,date
+,,
+Grade,Choose as many as you like from list,Pre-K
+,,K
+,,1
+,,2
+,,3
+,,4
+,,5
+,,6
+,,7
+,,8
+,,9
+,,10
+,,11
+,,12
+,,Early Elementary
+,,Late Elementary
+,,Middle School
+,,High School
+,,Any
+,,Algebra
+,,Pro
+,,
+State,Choose 1 from list of states,
+,,
+Region/School,text entry,region or school
+,,
+Length,hh:mm:ss,hh:mm:ss
+,,
+Creator/Vendor,Choose 1 from list,Dig
+,,Internal
+,,Studioworks
+,,Five Pebbles
+,,Other External
+,,
+Quality,Choose 1 from list,720
+,,1080
+,,4K
+,,Stringout
+,,
+Restrictions,Choose 1 from list,Yes—Internal Only
+,,No

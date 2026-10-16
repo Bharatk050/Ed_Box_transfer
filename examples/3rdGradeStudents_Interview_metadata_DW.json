@@ -1,0 +1,42 @@
+{
+  "Footage Type": "Interview",
+  "Product": [
+    "i-Ready"
+  ],
+  "Content Owner": null,
+  // "Subject": [
+  //   "Math",
+  //   "Reading"
+  // ],
+  
+
+  // KB - Box has a "hierarchy" data type so I've included Math and Reading as sub-categories under "i-Ready" in the product field  
+  // No need for the "Subject" field anymore
+  // See the Video Metadata excel sheet Proposed Box Metadata tab
+
+
+  "Content Tags": [
+    "Classroom", 
+    "Digital Devices",
+    // If I were tagging this manually, I wouldn't put either of these tags, since it's not good footage of a normal classroom or device usage, but it's fine if it gets tagged this way.
+    // I wouldn't put any other tags on this since we're not seeing any of these things happening in the footage  
+  ],
+  "People": [
+    // We only see the teacher briefly, from the waist down. Ideally this video would only be tagged with "student"
+    "Student"
+  ],
+  "Credits": "AnnMarie Lynch",
+  // This is pulled from the title card
+
+  "Creation Date": null,
+  "Last Modified": null,
+  "Grade": [
+    "3"
+  ],
+  "State": null,
+  "Region/School": null,
+  "Length": "00:15:17",
+  "Creator/Vendor": null,
+  "Quality": "1080",
+  "Restrictions": null
+}

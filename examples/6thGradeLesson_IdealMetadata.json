@@ -1,0 +1,57 @@
+{
+  "Footage Type": "Teaching Sample",
+
+  "Product": [
+    {
+      "Primary": "Core Math",
+      "Secondary": "i-Ready Classroom Mathematics"
+    }
+  ],
+// I don't think there's any way for the AI to deduce the product just from this clip
+// other clips that show the product more prominently (like the textbook cover) will be easier to determine
+
+  "Content Owner": null,
+
+  "Content Tags": [
+    "Full Lesson", 
+    "Classroom",
+    "Whole Class Instruction",
+    "Pair Work",
+    "Slides",
+    "Print Materials"
+  ],
+  "People": [
+    "Teacher",
+    "Student"
+  ],
+
+  "Credits": "Ryan Booth",
+  // This is really only evident from the file name
+
+  "Creation Date": null,
+// I don't know the creation date, I'd have to go look it up, so I don't think there's any way the AI could tell
+
+  "Last Modified": null,
+//I don't think this file has ever been modified tbh
+
+  "Grade": [
+    "6"
+  ],
+
+  "State": null,
+// The only way I would know this is to look up in our records where Agnes Stewart Middle School is
+
+  "Region/School": "Agnes Stewart MS",
+// From the file name
+
+  "Length": "01:09:43",
+
+  "Creator/Vendor": "Five Pebbles",
+// Often Five Pebbles puts their logo on the videos, but this one doesn't have a logo
+// The only reason I know it's Five Pebbles is because I recognize someone in the video 
+
+  "Quality": "720",
+
+  "Restrictions": "No"
+  // we can default to no unless there's existing metadata saying yes OR there are tags for assessment/assessment items
+}
